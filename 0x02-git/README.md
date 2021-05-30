@@ -1,1 +1,1 @@
-**strong** My ALX goals
+My first project on git.
