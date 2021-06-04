@@ -1,1 +1,1 @@
-**strong** My ALX goals.
+**Strong** My first commit
